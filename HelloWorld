@@ -1,6 +1,0 @@
-public class helloWorld{
-public static void main (Stirng args[]){
-    Sysout.out.print("Hello World");
-    Sysout.out.print("第一次的修改");
-  }
-}
