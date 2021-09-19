@@ -1,0 +1,7 @@
+/*尝试第一次的*
+
+public class HellWorld{
+  public static void main(Sting[] args){
+   Sysout.print("Hello World");
+  }
+}
